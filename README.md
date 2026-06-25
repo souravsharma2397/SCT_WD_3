@@ -1,1 +1,1 @@
-# SCT_WD_3
+Built a responsive Tic Tac Toe game using HTML, CSS, and JavaScript featuring Player vs Player and AI modes, winner detection, draw handling, and score tracking with an interactive user interface.
